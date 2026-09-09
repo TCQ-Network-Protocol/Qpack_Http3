@@ -1,0 +1,8 @@
+fuzzing/*.zip
+fuzzing/coverprofile
+fuzzing/crashers
+fuzzing/sonarprofile
+fuzzing/suppressions
+fuzzing/corpus/
+Document/
+release-v0.1.0/
