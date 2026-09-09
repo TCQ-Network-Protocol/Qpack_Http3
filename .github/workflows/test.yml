@@ -31,3 +31,5 @@ jobs:
           files: coverage.txt
           env_vars: GO
           token: ${{ secrets.CODECOV_TOKEN }}
+          fail_ci_if_error: true
+          verbose: true
