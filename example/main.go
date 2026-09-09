@@ -16,7 +16,7 @@ import (
 	"log"
 	"os"
 
-	qpack "github.com/NguyenHien-8/qpack-http3"
+	qpack "github.com/TCQ-Network-Protocol/Qpack_Http3"
 )
 
 func main() {
