@@ -5,7 +5,7 @@
 # QPACK HTTP3
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/TCQ-Network-Protocol/Qpack_Http3)
-[![GitHub](https://img.shields.io/github/license/TCQ-Network-Protocol/Qpack_Http3)](https://github.com/TCQ-Network-Protocol/Qpack_Http3/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/TCQ-Network-Protocol/Qpack_Http3)](https://github.com/TCQ-Network-Protocol/Qpack_Http3/blob/master/LICENSE)
 [![Codecov](https://codecov.io/gh/TCQ-Network-Protocol/Qpack_Http3/graph/badge.svg?token=ZMV0HJEG1H)](https://codecov.io/gh/TCQ-Network-Protocol/Qpack_Http3)
 [![CodSpeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/TCQ-Network-Protocol/Qpack_Http3?utm_source=badge)
 
