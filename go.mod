@@ -1,4 +1,4 @@
-module github.com/NguyenHien-8/qpack-http3
+module github.com/TCQ-Network-Protocol/Qpack_Http3
 
 go 1.24
 
